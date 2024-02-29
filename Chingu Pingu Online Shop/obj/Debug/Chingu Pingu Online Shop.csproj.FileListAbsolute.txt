@@ -1,0 +1,19 @@
+C:\Users\User\source\repos\Chingu Pingu Online Shop\Chingu Pingu Online Shop\obj\Debug\Chingu Pingu Online Shop.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Chingu Pingu Online Shop\Chingu Pingu Online Shop\obj\Debug\Chingu Pingu Online Shop.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Chingu Pingu Online Shop\Chingu Pingu Online Shop\obj\Debug\Chingu_Pingu_Online_Shop.Dashboard.resources
+C:\Users\User\source\repos\Chingu Pingu Online Shop\Chingu Pingu Online Shop\obj\Debug\Chingu_Pingu_Online_Shop.Login.resources
+C:\Users\User\source\repos\Chingu Pingu Online Shop\Chingu Pingu Online Shop\obj\Debug\Chingu_Pingu_Online_Shop.Form1.resources
+C:\Users\User\source\repos\Chingu Pingu Online Shop\Chingu Pingu Online Shop\obj\Debug\Chingu_Pingu_Online_Shop.Properties.Resources.resources
+C:\Users\User\source\repos\Chingu Pingu Online Shop\Chingu Pingu Online Shop\obj\Debug\Chingu Pingu Online Shop.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Chingu Pingu Online Shop\Chingu Pingu Online Shop\obj\Debug\Chingu Pingu Online Shop.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Chingu Pingu Online Shop\Chingu Pingu Online Shop\bin\Debug\Chingu Pingu Online Shop.exe
+C:\Users\User\source\repos\Chingu Pingu Online Shop\Chingu Pingu Online Shop\bin\Debug\Chingu Pingu Online Shop.pdb
+C:\Users\User\source\repos\Chingu Pingu Online Shop\Chingu Pingu Online Shop\obj\Debug\Chingu Pingu Online Shop.exe
+C:\Users\User\source\repos\Chingu Pingu Online Shop\Chingu Pingu Online Shop\obj\Debug\Chingu Pingu Online Shop.pdb
+C:\Users\User\source\repos\Chingu Pingu Online Shop\Chingu Pingu Online Shop\obj\Debug\Chingu_Pingu_Online_Shop.BeautyProducts.resources
+C:\Users\User\source\repos\Chingu Pingu Online Shop\Chingu Pingu Online Shop\obj\Debug\Chingu_Pingu_Online_Shop.ChinguPinguUsers.resources
+C:\Users\User\source\repos\Chingu Pingu Online Shop\Chingu Pingu Online Shop\obj\Debug\Chingu_Pingu_Online_Shop.AdminLogin.resources
+C:\Users\User\source\repos\Chingu Pingu Online Shop\Chingu Pingu Online Shop\obj\Debug\Chingu_Pingu_Online_Shop.Billing.resources
+C:\Users\User\source\repos\Chingu Pingu Online Shop\Chingu Pingu Online Shop\obj\Debug\Chingu_Pingu_Online_Shop.Price.resources
+C:\Users\User\source\repos\Chingu Pingu Online Shop\Chingu Pingu Online Shop\obj\Debug\Chingu_Pingu_Online_Shop.products.resources
+C:\Users\User\source\repos\Chingu Pingu Online Shop\Chingu Pingu Online Shop\obj\Debug\Chingu_Pingu_Online_Shop.Gallary.resources
